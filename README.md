@@ -17,4 +17,5 @@ Include a screenshot of the shader’s nodes. The shader must make use of:
 - [x] A property that can be changed in the inspector of the material, 
 - [x] An screenshot of what your custom shader looks like in game!
 
-[Screenshot (327)](https://user-images.githubusercontent.com/88565667/214108834-db0fd361-1211-4f05-b2f9-085cb118f30b.png)
+Linking an image 
+![Sceenshot of Shader Nodes](https://user-images.githubusercontent.com/88565667/214108834-db0fd361-1211-4f05-b2f9-085cb118f30b.png)
