@@ -9,11 +9,10 @@
 - [x] A checklist
 - [x] An additional feature of markdown that wasn’t covered in the lab
 - [x] A built version of the unity project. 
+- [x] custom shader. 
 
-- [x] custom shader. Include a screenshot of the shader’s nodes. The shader must make use of: 
-A texture, 
-A math node, 
-A property that can be changed in the inspector of the material, 
-An screenshot of what your custom shader looks like in game
-
- 
+Include a screenshot of the shader’s nodes. The shader must make use of: 
+- [x] A texture, 
+- [x] A math node, 
+- [x] A property that can be changed in the inspector of the material, 
+- [x] An screenshot of what your custom shader looks like in game
