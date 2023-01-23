@@ -20,3 +20,5 @@ Include a screenshot of the shader’s nodes. The shader must make use of:
 - [x] An screenshot of what your custom shader looks like in game!
 
 ![Sceenshot of Shader Nodes](https://user-images.githubusercontent.com/88565667/214108834-db0fd361-1211-4f05-b2f9-085cb118f30b.png)
+![Screenshot of Shader Output](https://user-images.githubusercontent.com/88565667/214110645-2d3cd5e1-01c2-4d83-b2b9-14adfe74f649.png)
+
